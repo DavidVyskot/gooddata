@@ -1,0 +1,14 @@
+/* Copyright (C) 2007-2019, GoodData(R) Corporation. All rights reserved. */
+
+body {
+  font-family: sans-serif;
+}
+
+.App > div {
+  height: 400px;
+}
+
+.App select {
+  font-size: 30px;
+}
+
